@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Yashx30/mumbaitoday.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/Yashx30/mumbaitoday.git/static/js/main.59a0d643.chunk.js",
+    "main.js.map": "/Yashx30/mumbaitoday.git/static/js/main.59a0d643.chunk.js.map",
+    "runtime-main.js": "/Yashx30/mumbaitoday.git/static/js/runtime-main.43e4451d.js",
+    "runtime-main.js.map": "/Yashx30/mumbaitoday.git/static/js/runtime-main.43e4451d.js.map",
+    "static/js/2.4931cf59.chunk.js": "/Yashx30/mumbaitoday.git/static/js/2.4931cf59.chunk.js",
+    "static/js/2.4931cf59.chunk.js.map": "/Yashx30/mumbaitoday.git/static/js/2.4931cf59.chunk.js.map",
+    "static/js/3.150bddd4.chunk.js": "/Yashx30/mumbaitoday.git/static/js/3.150bddd4.chunk.js",
+    "static/js/3.150bddd4.chunk.js.map": "/Yashx30/mumbaitoday.git/static/js/3.150bddd4.chunk.js.map",
+    "index.html": "/Yashx30/mumbaitoday.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Yashx30/mumbaitoday.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4931cf59.chunk.js.LICENSE.txt": "/Yashx30/mumbaitoday.git/static/js/2.4931cf59.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43e4451d.js",
+    "static/js/2.4931cf59.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.59a0d643.chunk.js"
+  ]
+}
